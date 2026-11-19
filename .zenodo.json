@@ -1,0 +1,12 @@
+{
+  "title": "Data and code for: Evolved and Feldspathic Igneous Rocks on Mars: A Review of Detections, Formation Hypotheses, and Implications for Early Crustal Evolution",
+  "description": "CRISM ratio and numerator spectra, region-of-interest definitions, Supplementary Tables 1 and 2 as CSV files, and the code that draws the spectral figures of Phillips, Viviano, and McSween (Space Science Reviews). Code is MIT licensed (LICENSE); data in data/ are CC BY 4.0 (LICENSE-DATA).",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "creators": [
+    {"name": "Phillips, Michael S.", "affiliation": "Lunar and Planetary Laboratory, University of Arizona"},
+    {"name": "Viviano, Christina E.", "affiliation": "Applied Physics Laboratory, Johns Hopkins University"},
+    {"name": "McSween, Harry Y., Jr.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, The University of Tennessee"}
+  ],
+  "keywords": ["Mars", "CRISM", "plagioclase", "feldspar", "spectroscopy", "crustal evolution"]
+}
