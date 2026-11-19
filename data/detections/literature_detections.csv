@@ -1,0 +1,60 @@
+crism_id,lat,lon,interpretation,reference,year,location
+FRT00008F08,-21.56,41.1,Granitic,Wray et al. (2013),2013,Noachis Terra
+FRT00009E61,-23.5,44.1,Granitic,Wray et al. (2013),2013,Noachis Terra
+FRT000082EE,8.86,67.28,Granitic,Wray et al. (2013),2013,Nili Patera
+HRL0000927F,2.7,308.3,Granitic/Anorthositic,Wray et al. (2013) / Carter & Poulet (2013),2013,Xanthe Terra
+HRL0000985E,2.81,308.26,Granitic/Anorthositic,Wray et al. (2013) / Carter & Poulet (2013),2013,Xanthe Terra
+FRT000064B3,-27,-34.2,Anorthositic,Carter & Poulet (2013),2013,Holden Crater
+HRL0000B5F9,-16.3,63,Anorthositic,Carter & Poulet (2013),2013,N. Hellas / Tyrrhena Terra
+FRT0000A26B,-16.5,64.7,Anorthositic,Carter & Poulet (2013),2013,N. Hellas / Tyrrhena Terra
+FRT000092B4,-25.3,66.2,Anorthositic,Carter & Poulet (2013),2013,N. Hellas / Tyrrhena Terra
+HRS0000C6A0,-25.3,66.2,Anorthositic,Carter & Poulet (2013),2013,N. Hellas / Tyrrhena Terra
+FRT00013005,-24.6,66.6,Anorthositic,Carter & Poulet (2013),2013,N. Hellas / Tyrrhena Terra
+FRT00007D60,-28.9,79.4,Anorthositic,Carter & Poulet (2013),2013,N. Hellas / Tyrrhena Terra
+FRT00018294,-29.7,86.8,Anorthositic,Carter & Poulet (2013),2013,N. Hellas / Tyrrhena Terra
+FRT00007C34,-28.47,-50.89,Fractional crystallization of plagioclase in a large magma body,Ding et al. (2015),2015,Ritchey Crater
+FRT00007F63,-15.8564,310.0642,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT00008842,-7.67619,319.3547,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT00009226,-14.4719,305.8901,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+HRL0000638C,-7.31379,314.9209,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+HRL0000A8F6,-15.1449,303.3871,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT00005F84,-13.5599,299.6861,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT00007AF6,-7.62246,313.9799,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT00009804,-13.9771,304.4826,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT0000A16B,-11.7063,321.4744,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT0000B8E2,-13.94,304.2742,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT0000B98D,-7.11625,315.1573,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT0000C76C,-13.8782,303.9867,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+HRL00019DC2,-13.7137,303.7613,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+HRS00004787,-13.2444,300.2267,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+HRS00024B7E,-12.2948,321.0296,Possible incipient craton formation or fractional crystallization of basalt,"Viviano et al., (2017)",2017,Valles Marineris
+FRT00008EE5,38.66,171.15,Alkali- and feldspar-rich intrusive volcanics,Farrand et al. (2021),2021,Arcadia Dome Field
+FRT000110B7,20.219,69.475,Uncertain: fractional crystallization or plag. enrichment via alteration,Pilles et al. (2021),2021,Negril Crater
+FRT000082EE,8.86,67.28,plutonic or volcanic feldspathic unit,Eggers et al. (2021),2021,Nili Patera
+FRT00004185,8.86,67.28,plutonic or volcanic feldspathic unit,Eggers et al. (2021),2021,Nili Patera
+FRS00038B87,8.86,67.28,plutonic or volcanic feldspathic unit,Eggers et al. (2021),2021,Nili Patera
+HRL0000509D,−34.54,182.24,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT0000BF69,−35.16,183.4,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT00009AAE,−37.20,190.66,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT0001FD6E,−37.22,190.91,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT00009D31,−37.22,191.02,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT00008E76,−21.95,201.66,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT0000A8B7,−15.63,210.73,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+HRL0000C549,−2.81,141.77,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT0000CAF3,−33.53,171.41,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+HRS0001ECE1,−33.85,172.69,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+HRL00012E0D,−34.66,174.31,"Intermediate silica feldspathic (""evolved crustal component"")",Payre et al. (2022),2022,Terra Sirenum
+FRT000082EE,8.9147,67.2898,"Alkali basalt, possibly various different lithologies",Rogers & Farrand (2022),2022,Nili Patera
+FRT00008F08,-20.2431,42.7551,"Alkali basalt, possibly various different lithologies",Rogers & Farrand (2022),2022,Noachis Terra
+HRL00013311,-21.6154,41.1572,"Alkali basalt, possibly various different lithologies",Rogers & Farrand (2022),2022,Terra Sabaea
+FRT00009E61,-23.1346,43.9829,"Alkali basalt, possibly various different lithologies",Rogers & Farrand (2022),2022,Noachis Terra
+FRT000063B9,-24.7176,46.0816,"Alkali basalt, possibly various different lithologies",Rogers & Farrand (2022),2022,Terra Sabaea
+FRT000244E3,-22.6097,46.1711,"Alkali basalt, possibly various different lithologies",Rogers & Farrand (2022),2022,Terra Sabaea
+FRT00008112,-12.027,-47.959,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris
+FRT00009804,-14.012,-55.589,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris
+FRT00009DB4,-14.076,-53.411,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris
+FRT0000B8E2,-13.898,-55.739,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris
+HRS00012C57,-14.009,-55.053,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris
+HRL0000CD37,-14.734,-57.579,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris
+FRT00009226,-14.5,-54.162,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris
+FRT0000C76C,-13.888,-55.957,Plagioclase-phyric effusive basalt,Flahaut et al. (2023),2023,Valles Marineris

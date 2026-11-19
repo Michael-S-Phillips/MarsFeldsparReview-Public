@@ -1,0 +1,7 @@
+The files in data/ are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Please cite the paper and this archive (see CITATION.cff) when you use them.
+
+The spectra are derived from CRISM MTRDR products archived in the NASA Planetary Data System (PDS Geosciences
+Node), which carry no use restrictions. The code in scripts/ is licensed separately under the MIT License (LICENSE).

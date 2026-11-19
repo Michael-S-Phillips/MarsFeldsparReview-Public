@@ -1,0 +1,11 @@
+name: mars-feldspar-review
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - rasterio      # fig1_layers.py and sample_dci.py only
+  - pyproj        # fig1_layers.py only

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the paper and this archive."
+title: "Data and code for: Evolved and Feldspathic Igneous Rocks on Mars: A Review of Detections, Formation Hypotheses, and Implications for Early Crustal Evolution"
+type: dataset
+authors:
+  - family-names: Phillips
+    given-names: Michael S.
+    affiliation: "Lunar and Planetary Laboratory, University of Arizona"
+  - family-names: Viviano
+    given-names: Christina E.
+    affiliation: "Applied Physics Laboratory, Johns Hopkins University"
+  - family-names: McSween
+    given-names: Harry Y.
+    name-suffix: Jr.
+    affiliation: "Department of Earth, Environmental, and Planetary Sciences, The University of Tennessee"
+license: [MIT, CC-BY-4.0]
+version: "1.0"
+# doi: 10.5281/zenodo.XXXXXXX   <- add the Zenodo DOI after the first release
+preferred-citation:
+  type: article
+  title: "Evolved and Feldspathic Igneous Rocks on Mars: A Review of Detections, Formation Hypotheses, and Implications for Early Crustal Evolution"
+  journal: "Space Science Reviews"
+  authors:
+    - family-names: Phillips
+      given-names: Michael S.
+    - family-names: Viviano
+      given-names: Christina E.
+    - family-names: McSween
+      given-names: Harry Y.
+      name-suffix: Jr.
